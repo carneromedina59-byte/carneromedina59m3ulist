@@ -1,0 +1,47 @@
+
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="CBSSportsGolazoNetwork.us" tvg-name="CBS Sports Golazo Network" tvg-logo="https://i.imgur.com/eMjutHS.png" group-title="sports",CBS Sports Golazo Network
+https://proped3fhg87.airspace-cdn.cbsivideo.com/golazo-live-dai/master/golazo-live-dai.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SportsTVPlus.us" tvg-name="Sports TV Plus" tvg-logo="https://i.imgur.com/EyCDhgN.png" group-title="sports",Sports TV Plus
+/hls/IIJ3OBA/m.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="TVSSportsBureau.us" tvg-name="TVS Sports Bureau" tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="sports",TVS Sports Bureau
+https://rpn.bozztv.com/gusa/gusa-tvssportsbureau/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TeleYucatan.mx" tvg-name="Tele Yucatan" tvg-logo="https://i.imgur.com/XkpDSmO.png" group-title="Undefined",Tele Yucatan
+https://5ca3e84a76d30.streamlock.net/teleyucatan/videoteleyucatan/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SIPSETV81.mx" tvg-name="SIPSE TV 8.1" tvg-logo="https://i.imgur.com/123P7dV.png" group-title="general",SIPSE TV 8.1
+https://webprod.sipse.com.mx:8080/show/merida.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SIPSETVCUN81.mx" tvg-name="SIPSE TVCUN 8.1" tvg-logo="https://i.imgur.com/uiTgClU.png" group-title="general",SIPSE TVCUN 8.1
+https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
+
+
+
+#EXTINF:-1 tvg-id="AztecaInternacional.mx" tvg-name="Azteca Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="entertainment",Azteca Internacional
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv" tvg-name="Canal 3 Impresionante" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="general",Canal 3 Impresionante
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+
+
+
+#EXTINF:-1 tvg-id="HCH.hn" tvg-name="HCH" tvg-logo="https://i.imgur.com/2CB5ezq.png" group-title="news",HCH
+https://live.streamhch.com/live/streams/hch1.m3u8
+
